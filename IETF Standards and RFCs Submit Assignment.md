@@ -6,7 +6,7 @@ Area: General
 Working group 3: DDoS Open Threat Signaling (dots)
 Area: Security
 
-# Working group 1: Internet Video Codec (netvc)
+## Working group 1: Internet Video Codec (netvc)
 Area: Art
 
 This WG is chartered to produce a high-quality video codec that meets the following conditions:
@@ -23,7 +23,7 @@ The objective is to produce a video codec that can be implemented, distributed, 
 
 The working group shall heed the preference stated in BCP 79: "In general, IETF working groups prefer technologies with no known IPR claims or, for technologies with claims against them, an offer of royalty-free licensing." In keeping with this BCP, the WG will prefer algorithms or tools where there are verifiable reasons to believe they are available on an royalty-free (RF) basis. In developing the codec specification, the WG may consider information concerning old prior art or the results of research indicating royalty-free availability of particular techniques. Note that the preference stated in BCP 79 cannot guarantee that the working group will produce an IPR unencumbered codec.
 
-# Working group 2: Meeting Venue (mtgvenue)
+## Working group 2: Meeting Venue (mtgvenue)
 Area: General
 
 The selection of meeting venues for our physical meetings is a common
@@ -35,7 +35,7 @@ useful. With community discussion and agreement such a specification
 will be very helpful in improving the process and ensuring that the
 relevant criteria are properly identified.
 
-# Working group 3: DDoS Open Threat Signaling (dots)
+## Working group 3: DDoS Open Threat Signaling (dots)
 Area: Security
 
 The aim of DDoS Open Threat Signaling (DOTS) is to develop a standards
@@ -49,8 +49,8 @@ The elements may be described as:
 * Other network elements and services with the ability to analyze and/or
 influence network traffic
 
-# Description of the current working group discussions of mtgvenue
-# details about choosing meeting locations and rooms
+## Description of the current working group discussions of mtgvenue
+### details about choosing meeting locations and rooms
 Re: [Mtgvenue] Genart last call review of draft-ietf-mtgvenue-iaoc-venue-selection-process-11
 Dan Romascanu <dromasca@gmail.com> Mon, 29 January 2018 18:26 UTCShow header
 
